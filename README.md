@@ -17,3 +17,7 @@ Demo: https://bit.ly/3o3B8fj
 - Provides a sense of purpose, clarity, and direction in life
 
 These are just some of the many benefits of Sri Yantra meditation. It is a powerful tool for anyone looking to improve their physical, emotional, and spiritual health.
+
+## Directions to Compile the code
+Choose the 2016 (Overleaf v1) (Legacy) in Overleaf otherwise the SriYantra will not be rendered properly.
+![image](https://github.com/bhaskatripathi/SriYantra/assets/35177508/6c053176-aa47-4135-9989-61101f0746c2)
